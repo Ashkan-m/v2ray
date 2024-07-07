@@ -43,7 +43,6 @@ vless://213acced-2c20-405a-9742-226caa911199@172.67.217.127:443?security=tls&sni
 vless://ad4aa165-c30d-48ec-9397-af1d1d3b1c4f@188.114.99.192:443?security=tls&sni=zamimm.e59b57f84c.workers.dev&type=ws&path=/@TELEGRAM-MARAMBASHI/?ed%3D2048&host=zamimm.e59b57f84c.workers.dev&encryption=none#%F0%9F%94%97%20Vauth%20-%201232
 vless://e4e7b149-8bd8-4266-8cbb-0987604dbc87@104.17.95.243:443?security=tls&sni=toujiediansigema.5112233.xyz&type=ws&path=/TG@juzibaipiao%E5%81%B7%E8%8A%82%E7%82%B9%E6%AD%BB%E5%90%97&host=toujiediansigema.5112233.xyz&encryption=none#%F0%9F%94%97%20Vauth%20-%201530
 vless://2d01b0eb-91fd-4eae-9fb0-50c08856181d@172.66.44.57:443?security=tls&sni=e420ceed.aryoo-vpn-friends.pages.dev&type=ws&path=/?ed%3D2560&host=e420ceed.aryoo-vpn-friends.pages.dev&encryption=none#%F0%9F%94%97%20Vauth%20-%202236
-vless://4b34b238-5c01-45ce-acd5-28fb0cb87acc@wpa.wizardxray.shop:49940?security=&type=tcp&encryption=none#Tajhiz
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.110.50:443?security=tls&sni=mmdv2.pages.dev&type=ws&path=/?ed%3D2048&host=mmdv2.pages.dev&encryption=none#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.19.110.50:443
 vless://49699004-a1ba-4621-9744-3d41e98040a9@speed.cloudflare.com:80?security=&type=ws&path=/tf3gqdlcz4d9ATYNtIiFQxNPNVWGh&host=cfcdn.kermankala.shop&encryption=none#4Kian-9272
 vless://f020a6cf-0ce7-47f3-88b3-d840dd8a557b@104.21.94.125:80?security=&type=ws&path=/&host=worker-empty-rain-c00d.raminramin006.workers.dev&encryption=none#%F0%9F%94%97%20Vauth%20-%205838
