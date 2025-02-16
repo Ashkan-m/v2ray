@@ -1,0 +1,1349 @@
+{
+  "logEnabled": false,
+  "loglevel": "error",
+  "indexId": "5702420341268613412",
+  "muxEnabled": false,
+  "sysProxyType": 0,
+  "enableStatistics": false,
+  "keepOlderDedupl": true,
+  "statisticsFreshRate": 1,
+  "remoteDNS": "",
+  "domainStrategy4Freedom": "",
+  "defAllowInsecure": false,
+  "domainStrategy": "IPIfNonMatch",
+  "domainMatcher": null,
+  "routingIndex": 0,
+  "enableRoutingAdvanced": true,
+  "ignoreGeoUpdateCore": false,
+  "systemProxyExceptions": "",
+  "systemProxyAdvancedProtocol": "",
+  "autoUpdateInterval": 0,
+  "autoUpdateSubInterval": 0,
+  "checkPreReleaseUpdate": false,
+  "enableSecurityProtocolTls13": false,
+  "trayMenuServersLimit": 30,
+  "inbound": [
+    {
+      "localPort": 10810,
+      "protocol": "socks",
+      "udpEnabled": true,
+      "sniffingEnabled": true,
+      "allowLANConn": false,
+      "user": "",
+      "pass": ""
+    }
+  ],
+  "vmess": [],
+  "kcpItem": {
+    "mtu": 1350,
+    "tti": 50,
+    "uplinkCapacity": 12,
+    "downlinkCapacity": 100,
+    "congestion": false,
+    "readBufferSize": 2,
+    "writeBufferSize": 2
+  },
+  "subItem": [
+    {
+      "id": "4614428045442309943",
+      "remarks": "001",
+      "url": "https://raw.githubusercontent.com/mahdibland/V2RayAggregator/refs/heads/master/sub/splitted/trojan.txt",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5091559417368346387",
+      "remarks": "002",
+      "url": "https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "4632845456110902598",
+      "remarks": "003",
+      "url": "https://raw.githubusercontent.com/freedomnet25500/freedom/refs/heads/main/freedom",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "4809918565417576546",
+      "remarks": "004",
+      "url": "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "4706457830267928814",
+      "remarks": "005",
+      "url": "https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5427428681415247674",
+      "remarks": "006",
+      "url": "https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/mix/sub.html",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5151333105455581323",
+      "remarks": "007",
+      "url": "https://raw.githubusercontent.com/mraliasadi8831/Subscription-/main/profiles.txt",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5412266736658463748",
+      "remarks": "008",
+      "url": "https://raw.githubusercontent.com/MrPooyaX/VpnsFucking/main/Shenzo.txt",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5711136795759767846",
+      "remarks": "009",
+      "url": "https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/all",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5210995005158825562",
+      "remarks": "010",
+      "url": "https://raw.githubusercontent.com/NicProxy/V2ray/main/configs",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5453461015894990500",
+      "remarks": "011",
+      "url": "https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_iOS.txt",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "4915021048386531642",
+      "remarks": "012",
+      "url": "https://raw.githubusercontent.com/Lewis-1217/FreeNodes/main/bpjzx1",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "4782075471076804232",
+      "remarks": "013",
+      "url": "https://raw.githubusercontent.com/hkaa0/link/main/2/v2ray.txt",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "4902173745406385025",
+      "remarks": "014",
+      "url": "https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/All_Configs_Sub.txt",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5458613924756496608",
+      "remarks": "015",
+      "url": "https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Splitted-By-Protocol/vless.txt",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5276810789390946051",
+      "remarks": "016",
+      "url": "https://raw.githubusercontent.com/FNET00bot/FNET00/Config/Main",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5388353035808577991",
+      "remarks": "017",
+      "url": "https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5721843517041046191",
+      "remarks": "018",
+      "url": "https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list_raw.txt",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5530675427972570587",
+      "remarks": "019",
+      "url": "https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription_num",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5242619677807561202",
+      "remarks": "020",
+      "url": "https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription2",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5407026603593198026",
+      "remarks": "021",
+      "url": "https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription3",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "4940377805224460227",
+      "remarks": "022",
+      "url": "https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription4",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5439357328566307486",
+      "remarks": "023",
+      "url": "https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription5",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5212619495149076527",
+      "remarks": "024",
+      "url": "https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription6",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5056708950898800507",
+      "remarks": "025",
+      "url": "https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription7",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5121555650049292965",
+      "remarks": "026",
+      "url": "https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription8",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5671924260532261147",
+      "remarks": "027",
+      "url": "https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/main/submerge/converted.txt",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5113809952548346103",
+      "remarks": "028",
+      "url": "https://igdux.top/~Sub-@Trick_mobil/vless-daily_33",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "4991698395980525389",
+      "remarks": "029",
+      "url": "https://raw.githubusercontent.com/Mahdi0024/ProxyCollector/master/sub/proxies.txt",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5100648113061103807",
+      "remarks": "030",
+      "url": "https://raw.githubusercontent.com/Lewis-1217/FreeNodes/main/bpjzx2",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "4751563694661607258",
+      "remarks": "031",
+      "url": "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/splitted/mixed",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "4701716379874461315",
+      "remarks": "032",
+      "url": "https://raw.githubusercontent.com/budamu/clashconfig/main/v2ray.txt",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "4756578414892233356",
+      "remarks": "033",
+      "url": "https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet_iOS.txt",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5225157801670358598",
+      "remarks": "034",
+      "url": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/All_Configs_Sub.txt",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5238063376416767519",
+      "remarks": "035",
+      "url": "https://raw.githubusercontent.com/freedomnet25500/freesub/refs/heads/main/yousefsegaro",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5356503722964983760",
+      "remarks": "036",
+      "url": "https://raw.githubusercontent.com/coldwater-10/V2Hub3/main/merged",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5067811052176411021",
+      "remarks": "037",
+      "url": "https://edgo.ir//vpn/netvpn.php",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5595584528774187248",
+      "remarks": "038",
+      "url": "https://raw.githubusercontent.com/Vauth/node/main/Main",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "4748252652859708902",
+      "remarks": "039",
+      "url": "https://raw.githubusercontent.com/Mr8AHAL/v2ray/main/SERVER.txt",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5401600518253231517",
+      "remarks": "040",
+      "url": "https://raw.githubusercontent.com/sami-soft/v2rayN_proxy/main/new1.txt",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "4732379144436167976",
+      "remarks": "041",
+      "url": "https://raw.githubusercontent.com/budamu/clashconfig/main/v2ray2.txt",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "4820449831682094285",
+      "remarks": "042",
+      "url": "https://raw.githubusercontent.com/Tenerome/v2ray/main/vmess.txt",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "4844456604028535118",
+      "remarks": "043",
+      "url": "https://raw.githubusercontent.com/ZywChannel/free/main/sub",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5681089850009759526",
+      "remarks": "044",
+      "url": "https://raw.githubusercontent.com/mfuu/v2ray/master/merge/merge.txt",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "4686904340813660611",
+      "remarks": "045",
+      "url": "https://raw.githubusercontent.com/yaney01/telegram-collector/main/subscribe/protocols/vmess",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5607685280781818759",
+      "remarks": "046",
+      "url": "https://raw.githubusercontent.com/yaney01/Yaney01/main/temporary",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5642026958810872046",
+      "remarks": "047",
+      "url": "https://raw.githubusercontent.com/ermaozi01/free_clash_vpn/main/subscribe/v2ray.txt",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5193430782811923416",
+      "remarks": "048",
+      "url": "https://raw.githubusercontent.com/adiwzx/freenode/main/adispeed.txt",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5122948969171889385",
+      "remarks": "049",
+      "url": "https://raw.githubusercontent.com/Jason05211211/Freerocket/main/freessr",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "4756122027826907175",
+      "remarks": "050",
+      "url": "https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.txt",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5578795776715371660",
+      "remarks": "051",
+      "url": "https://raw.githubusercontent.com/ZY-404/v2ray/main/v2ray.txt",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "4636933494369195403",
+      "remarks": "052",
+      "url": "https://raw.githubusercontent.com/baipiao0/baipiao02/main/v2ray",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5584657279143173808",
+      "remarks": "053",
+      "url": "https://raw.githubusercontent.com/codingbox/Free-Node-Merge/main/node.txt",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "4971071206179659582",
+      "remarks": "054",
+      "url": "https://raw.githubusercontent.com/245237866/v2rayn/main/everydaynode",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5007015158775628093",
+      "remarks": "055",
+      "url": "https://raw.githubusercontent.com/Creativveb/v2configs/main/updated",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "4749221613644162270",
+      "remarks": "056",
+      "url": "https://raw.githubusercontent.com/dalazhi/v2ray/main/v2ray%E8%AE%A2%E9%98%85",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5412825761762861043",
+      "remarks": "057",
+      "url": "https://raw.githubusercontent.com/hsb4657/v2ray/main/lastest.txt",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5076205578024928138",
+      "remarks": "058",
+      "url": "https://raw.githubusercontent.com/liketolivefree/kobabi/refs/heads/main/sub",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5364416301800345102",
+      "remarks": "059",
+      "url": "https://raw.githubusercontent.com/imohammadkhalili/V2RAY/main/Mkhalili",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5650438634512619039",
+      "remarks": "060",
+      "url": "https://raw.githubusercontent.com/Jia-Pingwa/free-v2ray-merge/main/output.txt",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "4962276247793987566",
+      "remarks": "061",
+      "url": "https://raw.githubusercontent.com/davudsedft/purvpn/refs/heads/main/links/lite.txt",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "4771575950663153790",
+      "remarks": "062",
+      "url": "https://raw.githubusercontent.com/mheidari98/.proxy/main/all",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5731352573978699776",
+      "remarks": "063",
+      "url": "https://raw.githubusercontent.com/jikelonglie/meskell/main/meskell",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5073577497457963293",
+      "remarks": "064",
+      "url": "https://raw.githubusercontent.com/jiquanxiang/abc/main/v7",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5185765963178220635",
+      "remarks": "065",
+      "url": "https://raw.githubusercontent.com/iwxf/free-v2ray/master/index.html",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5667092922303247174",
+      "remarks": "066",
+      "url": "https://raw.githubusercontent.com/lflflf999/0516/main/BX-JD",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5473055271003907714",
+      "remarks": "067",
+      "url": "https://raw.githubusercontent.com/davudsedft/purvpn/refs/heads/main/links/purkow.txt",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5077421945891579525",
+      "remarks": "068",
+      "url": "https://raw.githubusercontent.com/ripaojiedian/freenode/main/sub",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5306188599879285891",
+      "remarks": "069",
+      "url": "https://raw.githubusercontent.com/gitbigg/permalink/main/subscribe",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "4919425640495663130",
+      "remarks": "070",
+      "url": "https://raw.githubusercontent.com/vpei/free-node-1/main/o/allnode.txt",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5590628679539545913",
+      "remarks": "071",
+      "url": "https://raw.githubusercontent.com/nasheep/FreeNode/main/v2ray/PlayLab",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5374986100412424277",
+      "remarks": "072",
+      "url": "https://raw.githubusercontent.com/wrfree/free/main/v2",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5452365740757280942",
+      "remarks": "073",
+      "url": "https://raw.githubusercontent.com/xiyaowong/freeFQ/main/v2ray",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5573256708839498406",
+      "remarks": "074",
+      "url": "https://raw.githubusercontent.com/xhmotor/V2rayn/main/v2rayn",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "4644472792820162563",
+      "remarks": "075",
+      "url": "https://raw.githubusercontent.com/zhlx2835/freefq/main/v2",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5692602047669454774",
+      "remarks": "076",
+      "url": "https://raw.githubusercontent.com/freefq/free/master/v2",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5663677318155512604",
+      "remarks": "077",
+      "url": "https://raw.githubusercontent.com/YasserDivaR/pr0xy/main/ShadowSocks2021.txt",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5059634231070622203",
+      "remarks": "078",
+      "url": "https://raw.githubusercontent.com/Mosifree/-FREE2CONFIG/refs/heads/main/Reality",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5540376001538274448",
+      "remarks": "079",
+      "url": "https://raw.githubusercontent.com/tjyu010/FreeNodes/master/nodes/merged.txt",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5180933462088589867",
+      "remarks": "080",
+      "url": "https://raw.githubusercontent.com/kaoxindalao/v2raycheshi/main/v2raycheshi",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "4900363526026991180",
+      "remarks": "081",
+      "url": "https://raw.githubusercontent.com/ndsphonemy/proxy-sub/main/default.txt#default",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5066141931088974026",
+      "remarks": "082",
+      "url": "https://igdux.top/Aep8#",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5667527315269654009",
+      "remarks": "083",
+      "url": "https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/splitted/vmess.txt",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5556085680353759060",
+      "remarks": "084",
+      "url": "https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/splitted/ss.txt",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5692174647966469412",
+      "remarks": "085",
+      "url": "https://raw.githubusercontent.com/ssrsub/ssr/master/V2Ray",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5708295140213516272",
+      "remarks": "086",
+      "url": "http://edgo.ir/vpn/new2.php",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "4966122688828889867",
+      "remarks": "087",
+      "url": "https://raw.githubusercontent.com/Kwinshadow/TelegramV2rayCollector/main/sublinks/b64mix.txt",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "4962772662076977134",
+      "remarks": "088",
+      "url": "https://raw.githubusercontent.com/davudsedft/newpurnet/main/purkow.txt",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "4783336485238582408",
+      "remarks": "089",
+      "url": "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/countries/us/mixed",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5667593368927818733",
+      "remarks": "090",
+      "url": "https://raw.githubusercontent.com/coldwater-10/V2rayCollector/main/mixed_iran.txt",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5477991512642802057",
+      "remarks": "091",
+      "url": "https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/sub.txt",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5321381874419537015",
+      "remarks": "092",
+      "url": "https://raw.githubusercontent.com/Syavar/V2ray-Configs/main/OK_google.com.txt",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5397202060524101335",
+      "remarks": "093",
+      "url": "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/vless",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5633899896641902110",
+      "remarks": "094",
+      "url": "https://raw.githubusercontent.com/ndsphonemy/proxy-sub/main/default.txt",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "4949449807696461515",
+      "remarks": "095",
+      "url": "https://raw.githubusercontent.com/mheidari98/.proxy/main/vmess",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5378237980370918047",
+      "remarks": "096",
+      "url": "https://raw.githubusercontent.com/ndsphonemy/proxy-sub/main/speed.txt",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "4751037104531471726",
+      "remarks": "097",
+      "url": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5688635091009178771",
+      "remarks": "098",
+      "url": "https://raw.githubusercontent.com/Mohammadgb0078/IRV2ray/main/vless.txt",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5186601465053297142",
+      "remarks": "099",
+      "url": "https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/sub.txt",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "4953029703712682495",
+      "remarks": "100",
+      "url": "https://edgo.ir/vpn/hotvpn.php",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5436687857160163934",
+      "remarks": "101",
+      "url": "https://fragment-freevpnhomes-subscription.meshkintaj.homes/",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5561672887640772285",
+      "remarks": "102",
+      "url": "https://raw.githubusercontent.com/mheidari98/.proxy/main/all",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "4768445492182148258",
+      "remarks": "103",
+      "url": "https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Splitted-By-Protocol/vmess.txt",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "4651009760652567511",
+      "remarks": "104",
+      "url": "https://igdux.top/~FREE2CONFIG,SS",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "4780467835782256783",
+      "remarks": "105",
+      "url": "https://raw.githubusercontent.com/yebekhe/vpn-fail/main/sub-link",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5243216613585555393",
+      "remarks": "106",
+      "url": "https://igdux.top/~FREE2CONFIG,REALITY",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "4684718553271683663",
+      "remarks": "107",
+      "url": "https://igdux.top/c6sh",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5278796323192160893",
+      "remarks": "108",
+      "url": "https://igdux.top/Ydzr",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "4994558165910347940",
+      "remarks": "109",
+      "url": "https://igdux.top/wMEN",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5293648631748713865",
+      "remarks": "110",
+      "url": "https://igdux.top/B6Gc",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "4998372357350720528",
+      "remarks": "111",
+      "url": "https://raw.githubusercontent.com/ndsphonemy/proxy-sub/main/speed.txt#@Ammar_Taraz",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "4812245316667385784",
+      "remarks": "112",
+      "url": "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/countries/us/mixed#USA-hamedp71",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "4630102659056291699",
+      "remarks": "113",
+      "url": "https://sub.lping.online/4321af1d9a4281c956a5167ac5f360a8",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "4928131118280390278",
+      "remarks": "114",
+      "url": "https://raw.githubusercontent.com/iPsycho1/Subscription/refs/heads/main/iPsycho",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "4645141889743130763",
+      "remarks": "115",
+      "url": "https://edgo.ir/vpn/netvpn.php",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "4628145734574898074",
+      "remarks": "116",
+      "url": "https://bia2tell.top/pRo/Golden/",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "4632578133179016275",
+      "remarks": "117",
+      "url": "https://raw.githubusercontent.com/kayhgng/v2raykayh/cb46d1e2beba17eccc04e5aa711a7edd28e35120/kayhgngcollectorv3v2ray_ss",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5721022962173502100",
+      "remarks": "118",
+      "url": "https://edgo.ir/vpn/byvpn.php",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5321058095011305905",
+      "remarks": "119",
+      "url": "https://edgo.ir/dezgi69/ghost.php",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "4908643766485098365",
+      "remarks": "120",
+      "url": "https://raw.githubusercontent.com/Surfboardv2ray/v2ray-worker-sub/master/Eternity",
+      "enabled": true,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5594971236626269712",
+      "remarks": "121",
+      "url": "",
+      "enabled": false,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5399364348438449896",
+      "remarks": "122",
+      "url": "",
+      "enabled": false,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "4679666197446060640",
+      "remarks": "123",
+      "url": "",
+      "enabled": false,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5103105763696815256",
+      "remarks": "124",
+      "url": "",
+      "enabled": false,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "4789621553479512378",
+      "remarks": "125",
+      "url": "",
+      "enabled": false,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5694237473371381507",
+      "remarks": "126",
+      "url": "",
+      "enabled": false,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5694745480875390451",
+      "remarks": "127",
+      "url": "",
+      "enabled": false,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5151979559385751513",
+      "remarks": "128",
+      "url": "",
+      "enabled": false,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "4655451490354375150",
+      "remarks": "129",
+      "url": "",
+      "enabled": false,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "4922175847675735264",
+      "remarks": "130",
+      "url": "",
+      "enabled": false,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5384190243491383533",
+      "remarks": "131",
+      "url": "",
+      "enabled": false,
+      "userAgent": "",
+      "groupId": ""
+    },
+    {
+      "id": "5407820465476756958",
+      "remarks": "132",
+      "url": "",
+      "enabled": false,
+      "userAgent": "",
+      "groupId": ""
+    }
+  ],
+  "uiItem": {
+    "enableAutoAdjustMainLvColWidth": true,
+    "mainLocation": "364, 136",
+    "mainSize": "1054, 797",
+    "mainLvColWidth": {
+      "def": 38,
+      "configType": 79,
+      "remarks": 94,
+      "address": 161,
+      "port": 42,
+      "security": 168,
+      "network": 57,
+      "streamSecurity": 40,
+      "subRemarks": 36,
+      "testResult": 174
+    }
+  },
+  "routings": [
+    {
+      "remarks": "绕过大陆(Whitelist)",
+      "url": "",
+      "rules": [
+        {
+          "type": null,
+          "port": null,
+          "inboundTag": null,
+          "outboundTag": "direct",
+          "ip": null,
+          "domain": [
+            "domain:example-example.com",
+            "domain:example-example2.com"
+          ],
+          "protocol": null,
+          "enabled": true
+        },
+        {
+          "type": null,
+          "port": null,
+          "inboundTag": null,
+          "outboundTag": "block",
+          "ip": null,
+          "domain": [
+            "geosite:category-ads-all"
+          ],
+          "protocol": null,
+          "enabled": true
+        },
+        {
+          "type": null,
+          "port": null,
+          "inboundTag": null,
+          "outboundTag": "direct",
+          "ip": null,
+          "domain": [
+            "geosite:cn"
+          ],
+          "protocol": null,
+          "enabled": true
+        },
+        {
+          "type": null,
+          "port": null,
+          "inboundTag": null,
+          "outboundTag": "direct",
+          "ip": [
+            "geoip:private",
+            "geoip:cn"
+          ],
+          "domain": null,
+          "protocol": null,
+          "enabled": true
+        },
+        {
+          "type": null,
+          "port": "0-65535",
+          "inboundTag": null,
+          "outboundTag": "proxy",
+          "ip": null,
+          "domain": null,
+          "protocol": null,
+          "enabled": true
+        }
+      ],
+      "enabled": true,
+      "locked": false,
+      "customIcon": null
+    },
+    {
+      "remarks": "黑名单(Blacklist)",
+      "url": "",
+      "rules": [
+        {
+          "type": null,
+          "port": null,
+          "inboundTag": null,
+          "outboundTag": "direct",
+          "ip": null,
+          "domain": null,
+          "protocol": [
+            "bittorrent"
+          ],
+          "enabled": true
+        },
+        {
+          "type": null,
+          "port": null,
+          "inboundTag": null,
+          "outboundTag": "block",
+          "ip": null,
+          "domain": [
+            "geosite:category-ads-all"
+          ],
+          "protocol": null,
+          "enabled": true
+        },
+        {
+          "type": null,
+          "port": null,
+          "inboundTag": null,
+          "outboundTag": "proxy",
+          "ip": [
+            "geoip:telegram"
+          ],
+          "domain": [
+            "geosite:gfw",
+            "geosite:greatfire",
+            "geosite:tld-!cn"
+          ],
+          "protocol": null,
+          "enabled": true
+        },
+        {
+          "type": null,
+          "port": "0-65535",
+          "inboundTag": null,
+          "outboundTag": "direct",
+          "ip": null,
+          "domain": null,
+          "protocol": null,
+          "enabled": true
+        }
+      ],
+      "enabled": true,
+      "locked": false,
+      "customIcon": null
+    },
+    {
+      "remarks": "全局(Global)",
+      "url": "",
+      "rules": [
+        {
+          "type": null,
+          "port": "0-65535",
+          "inboundTag": null,
+          "outboundTag": "proxy",
+          "ip": null,
+          "domain": null,
+          "protocol": null,
+          "enabled": true
+        }
+      ],
+      "enabled": true,
+      "locked": false,
+      "customIcon": null
+    },
+    {
+      "remarks": "locked",
+      "url": "",
+      "rules": [
+        {
+          "type": null,
+          "port": null,
+          "inboundTag": null,
+          "outboundTag": "proxy",
+          "ip": null,
+          "domain": [
+            "geosite:google"
+          ],
+          "protocol": null,
+          "enabled": true
+        },
+        {
+          "type": null,
+          "port": null,
+          "inboundTag": null,
+          "outboundTag": "direct",
+          "ip": null,
+          "domain": [
+            "domain:example-example.com",
+            "domain:example-example2.com"
+          ],
+          "protocol": null,
+          "enabled": true
+        },
+        {
+          "type": null,
+          "port": null,
+          "inboundTag": null,
+          "outboundTag": "block",
+          "ip": null,
+          "domain": [
+            "geosite:category-ads-all"
+          ],
+          "protocol": null,
+          "enabled": true
+        }
+      ],
+      "enabled": true,
+      "locked": true,
+      "customIcon": null
+    }
+  ],
+  "constItem": {
+    "speedTestUrl": "http://cachefly.cachefly.net/10mb.test",
+    "speedPingTestUrl": "https://www.google.com/generate_204",
+    "defIEProxyExceptions": "localhost;127.*;10.*;172.16.*;172.17.*;172.18.*;172.19.*;172.20.*;172.21.*;172.22.*;172.23.*;172.24.*;172.25.*;172.26.*;172.27.*;172.28.*;172.29.*;172.30.*;172.31.*;192.168.*"
+  },
+  "globalHotkeys": null,
+  "groupItem": [],
+  "coreTypeItem": [
+    {
+      "configType": 1,
+      "coreType": 2
+    },
+    {
+      "configType": 2,
+      "coreType": 2
+    },
+    {
+      "configType": 3,
+      "coreType": 2
+    },
+    {
+      "configType": 4,
+      "coreType": 2
+    },
+    {
+      "configType": 5,
+      "coreType": 2
+    },
+    {
+      "configType": 6,
+      "coreType": 2
+    }
+  ]
+}
